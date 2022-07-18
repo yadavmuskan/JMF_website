@@ -1,0 +1,36 @@
+.upleft-img{
+    /* float: left; */
+    margin-left: 900px;
+    height: 500px;
+    width: 500px;
+}
+.updiv-text1{
+   position: relative;
+   bottom: 100px;
+   margin-left: 80px;
+}
+ .upright-img{ 
+     height: 500px;
+    width: 600px;
+    margin-left: 100px;
+} 
+.updiv-text2 {
+    margin-left: 800px;
+   position: relative;
+   bottom: 400px;
+}
+
+.h1{
+    color: black;
+}
+#up-span1{
+margin-top: 50px;
+font-size: 40px;
+}
+
+#up-span2{
+    font-size: 40px; 
+}
+
+
+

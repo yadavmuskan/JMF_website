@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+body{
+    background-color: rgb(198, 198, 198);
+}
+#div1{
+    background-color:#fff;
+    /* height: ; */
+    width: 100%;
+}
+.btn-tra{
+    background-color: rgb(5, 153, 5);
+    width: 250px;
+    height: 45px;
+    border-radius: 10px;
+    border: none; 
+    margin-right: 15px;
+    color: rgb(255, 255, 255);
+}
+.btn-tra:hover{
+    background-color: rgba(115, 109, 109, 0.375);
+}
+
+.btn-tra1{
+    background-color: rgb(81, 203, 225);
+    width: 250px;
+    height: 45px;
+    border-radius: 10px;
+    border: none; 
+    color: #fff;
+}
+
+.rounded{
+    height: 400px;
+    /* width: ; */
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+    
+}
+.tra-head{
+    font-size: 70px;
+    color: black;
+}
+.tra-p{
+    color: black;
+}
+li{
+    color: black;
+    font-size: 20px;
+}
+.rightdiv{
+    position: relative;
+    top: 200px;
+    left: 80px;
+}
+.leftdiv{
+    position: relative;
+    left: 500px;
+}

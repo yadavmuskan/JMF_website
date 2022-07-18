@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* position:fixed; */
+    background-color: none;
+}
+body{
+    height: 600%;
+    width: 600%;
+}
+.head-1{
+    color:#fff;
+    font-size: 90px;
+    font-weight: bold;
+  font-family: 'Franklin Gothic Medium';
+   }
+    header .img-overlay {
+       background-color: rgba(44, 39, 39, 0.8);  
+    } 
+    .brand-name {
+      color: rgb(0, 212, 7);
+    font-family: 'Franklin Gothic Medium'; }
+      .brand-name {
+        font-family: 'Franklin Gothic Medium';
+        font-size: 100px; }
+        .brand-name span {
+          color: #fff; }
+      header .content .brand-description {
+        font-size: 25px;
+      color:#fff; }
+ 
+.hero {
+    height: 100%;
+    width: 600%;
+    overflow-y: hidden;
+   /* background-size: cover; */
+}
+/* .img-home{
+    width: 100%;
+    height: 100%;
+overflow-y: hidden;
+margin-left: 200%;
+} */
+/* .front-img{
+    height: 10%;
+    width: 3%;
+    overflow-y: hidden;
+    
+} */
+#img-home{
+    /* height: ; */
+width: 1800px;
+overflow-y: hidden;
+}
+#home-logo{
+    height: 60px;
+    width: 60px;
+    margin-right: 500px;
+   position: relative;
+   top: 90px;
+   border-radius: 14px;
+}
+#home-p{
+    font-weight: bold;
+}
+.hero .content {
+    text-align: center;
+    position: absolute;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    top: 30vh;
+    overflow-y: hidden;
+}
+
+.hero .content h1 {
+    font-size: 4rem;
+    color: #fff;
+}
+
+.hero p {
+    font-size: 1.8rem;
+    font-weight: 200;
+    text-transform: uppercase;
+    margin-bottom: 1.6rem;
+    color: #fff;
+}
+
+.hero .btn {
+    margin: 1rem .2rem;
+    background-color: green;
+    border-radius: 10px;
+    border: none;
+}
+.btn:hover{
+    background-color: grey;
+    color: #fff;
+}
+/* #btn-home1{
+    background-color: rgb(5, 153, 5);
+    width: 250px;
+    height: 200%;
+    margin-left: 40%;
+    border-radius: 10px;
+    border: none; 
+    color: #fff;
+}
+#btn-home1:hover{
+    background-color: rgba(75, 66, 66, 0.967);
+} */
+
+
+@media screen and (max-width:800px) {
+    .content h1 {
+        font-size: 3rem;
+    }
+
+    .content p {
+        font-size: 1.4rem;
+        margin-bottom: 1.6rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
